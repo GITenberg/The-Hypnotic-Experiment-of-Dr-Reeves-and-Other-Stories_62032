@@ -1,11 +1,16 @@
 _repo: The-Hypnotic-Experiment-of-Dr-Reeves-and-Other-Stories_62032
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 62032-h/images/cover.jpg
 creator:
   author:
     agent_name: Jones, Charlotte Rosalys
     gutenberg_agent_id: '51737'
     url: http://www.gutenberg.org/2009/agents/51737
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/62032#The-Hypnotic-Experiment-of-Dr-Reeves-and-Other-Stories
 gutenberg_issued: '2020-05-05'
 gutenberg_type: Text
 identifiers:
