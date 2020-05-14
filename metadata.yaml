@@ -1,0 +1,26 @@
+_repo: The-Hypnotic-Experiment-of-Dr-Reeves-and-Other-Stories_62032
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Jones, Charlotte Rosalys
+    gutenberg_agent_id: '51737'
+    url: http://www.gutenberg.org/2009/agents/51737
+description: ''
+gutenberg_issued: '2020-05-05'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '62032'
+  lccn: 01021249
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Short stories'
+- !lcc 'PR'
+- !lcsh 'Man-woman relationships -- Fiction'
+- GITenberg
+tableOfContents: The hypnotic experiment of Dr. Reeves -- An international courtship
+  -- One woman's history out of many -- Miss Cameron's art sale -- A complex question.
+title: The Hypnotic Experiment of Dr. Reeves, and Other Stories
+url: http://www.gutenberg.org/ebooks/62032
